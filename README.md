@@ -1,8 +1,9 @@
-### Hey there👋, Welcome to my GitHub Profile
-
 <h1 align="center">Hi 👋, I'm Tiyas</h1>
 <h3 align="center">A passionate fullstack web developer and machine learning enthusiastic</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+## ⚡🙋‍♂️ About Me
+</br>
 - 🔭 I’m currently working on **Automated Floorplan Generation Model**
 
 - 🌱 I’m currently learning **MERN Stack and Cloud Computing**
