@@ -3,18 +3,16 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ## ⚡🙋‍♂️ About Me
-</br>
+
 - 🔭 I’m currently working on **Automated Floorplan Generation Model**
 
 - 🌱 I’m currently learning **MERN Stack and Cloud Computing**
-
-- 🔭 I’m also working on **Search Engine Application**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 📫 How to reach me **tiyas.maji17@gmail.com**
 
-- ⚡ Fun fact **I think coding is more easier than powerlifting**
+- ⚡ Fun fact **Both gym workouts and coding sessions require discipline, consistency, and a bit of sweat!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
