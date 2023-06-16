@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **tiyas.maji17@gmail.com**
 
-- ⚡ Fun fact **Both gym workouts and coding sessions require discipline, consistency, and a bit of sweat!**
+- ⚡ Fun fact **In the gym? Deadlifts. In the code? Debugging..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
