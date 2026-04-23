@@ -50,10 +50,13 @@
 - Optimized performance by limiting vocabulary to **top 5000 frequent words**  
 - Developed interactive GUI using **Python Tkinter** for real-time recommendations
 
-### 🔹 BiteReel – Food Delivery Platform
-- MERN stack app with Reels-style video feed  
-- Reduced server load by **40% using ImageKit + Multer**  
-- Implemented role-based authentication  
+### 🔹 BiteReel – Food Delivery Platform | MERN Stack, MongoDB, JWT
+
+- Developed a full-stack food delivery platform with a Reels-style video feed, enabling content-driven food discovery
+- Implemented JWT-based authentication and middleware-driven RBAC for users and food partners
+- Built APIs for video upload, reels feed, and food partner profiles, ensuring role-restricted access
+- Designed scalable media pipeline using Multer and ImageKit, reducing server load by ~40%
+- Optimized frontend performance using lazy loading, reducing bandwidth usage by ~35% and improving page speed
 
 ### 🔹 Backend Ledger – Banking API
 - Secure REST API for transactions & accounts  
