@@ -83,6 +83,11 @@
 - Reduced chatbot response time by **12 seconds**  
 - Built authentication systems (Node.js + MongoDB)  
 
+### 🤖 SQFT 51 (AI Research Intern)
+- Developed automated floor plan generation using **Graph Convolutional Networks (GCN)** with user-defined constraints  
+- Trained and evaluated models on **RPLAN dataset (~80k floorplans)** using Google Cloud  
+- Built an interactive system for generating structured floor plans with real-time visualization
+
 ---
 
 ## 📊 GitHub Stats
