@@ -11,8 +11,8 @@
 
 ## 🚀 About Me
 
-- 🎓 B.Tech in Chemical Engineering from **IIT Kharagpur** 0  
-- 💼 Currently working as **Assistant Manager at JSPL** (Data Pipelines & Dashboards) 1  
+- 🎓 B.Tech in Chemical Engineering from **IIT Kharagpur** 
+- 💼 Currently working as **Assistant Manager at JSPL**
 - 💻 Strong in **Backend Development & Machine Learning**
 - ⚡ Love building systems that are **scalable + efficient**
 - 🏋️ Fun fact: Deadlifts in gym, debugging in code
