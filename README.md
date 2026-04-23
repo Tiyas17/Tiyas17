@@ -58,33 +58,38 @@
 - Designed scalable media pipeline using Multer and ImageKit, reducing server load by ~40%
 - Optimized frontend performance using lazy loading, reducing bandwidth usage by ~35% and improving page speed
 
-### 🔹 Backend Ledger – Banking API
-- Secure REST API for transactions & accounts  
-- JWT authentication + bcrypt security  
-- MVC architecture with middleware  
+### 🔹 Backend Ledger– Banking System API
+- Architected and developed a RESTful backend API for managing users, accounts, and financial transactions
+- Implemented stateless JWT authentication with middleware-based route protection and secure access control
+- Designed secure login and registration flow using bcrypt hashing with controlled token expiration policies
+- Integrated Nodemailer to automate transactional email notifications for registration and account activities
 
 ### 🔹 AI Code Reviewer
-- Node.js backend + React frontend  
-- Uses prompt engineering for automated feedback  
-- Markdown-based structured output  
+- Architected a robust Node.js REST API to efficiently handle complex code review workflows and data flow
+- Developed an interactive React interface with PrismJS for real-time syntax highlighting and code editing
+- Optimized AI instructions through prompt engineering to deliver precise technical feedback and error detection
+- Implemented Markdown rendering to transform AI responses into structured and readable review reports  
 
 ### 🔹 Emotion Detection Web App
-- NLP model using TF-IDF & Logistic Regression  
-- Achieved **~88% accuracy**  
-- Built with Streamlit  
+- Built end-to-end NLP-based emotion classification system using TF-IDF, BoW, and Logistic Regression models
+- Experimented with Logistic Regression and MultinomialNB to compare performance across text representations
+- Improved contextual understanding using n-grams to effectively handle negation and phrase-level sentiment patterns
+- Developed interactive Streamlit web application enabling real-time emotion prediction from user input text data
+- Achieved 88.87% accuracy using Bag-of-Words approach and accuracy of 84.25% with TF-IDF model approach 
 
 ---
 
 ## 💼 Experience
 
 ### 🏢 JSPL (Assistant Manager)
-- Built Python pipelines → **60% manual effort reduction**  
-- Created dashboards for real-time decision making  
-- SQL-based data optimization  
+- Developed automated Python pipelines to process industrial datasets, reducing manual data analysis time by ~60%
+- Built real-time dashboards to visualize operational metrics and assist engineers in data-driven decision-making
+- Structured and queried plant data using SQL, identifying inefficiencies and improving reporting workflows  
 
 ### 💻 MakeMyBrain (SDE Intern)
-- Reduced chatbot response time by **12 seconds**  
-- Built authentication systems (Node.js + MongoDB)  
+- Developed automated floor plan generation using Graph Convolutional Networks and user-defined boundaries
+- Employed Google Cloud Services to train and test graph2plan model on RPLAN dataset with 80k floorplans
+- Built an interactive floorplan generator ensuring compatibility and seamless user experience across platforms 
 
 ### 🤖 SQFT 51 (AI Research Intern)
 - Developed automated floor plan generation using **Graph Convolutional Networks (GCN)** with user-defined constraints  
