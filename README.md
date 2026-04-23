@@ -37,6 +37,19 @@
 
 ## 📌 Projects
 
+### 🔹 Music Streaming Backend API | Node.js, Express, MongoDB, JWT
+- Engineered a scalable backend with **stateless JWT authentication** and middleware-based **RBAC (User & Artist roles)**  
+- Developed secure REST APIs for music, albums, and user workflows with role-restricted access  
+- Optimized media handling using **ImageKit + Multer**, reducing backend storage load and improving scalability  
+- Followed **MVC architecture** ensuring clean separation of controllers, services, and middleware
+
+### 🔹 Movie Recommendation System
+- Built content-based recommendation system using **Bag-of-Words and Cosine Similarity** on movie metadata  
+- Processed datasets by cleaning text, handling missing values, and extracting relevant features  
+- Generated recommendations using similarity matrix based on user-selected movies  
+- Optimized performance by limiting vocabulary to **top 5000 frequent words**  
+- Developed interactive GUI using **Python Tkinter** for real-time recommendations
+
 ### 🔹 BiteReel – Food Delivery Platform
 - MERN stack app with Reels-style video feed  
 - Reduced server load by **40% using ImageKit + Multer**  
