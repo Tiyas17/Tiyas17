@@ -57,6 +57,7 @@
 - Built APIs for video upload, reels feed, and food partner profiles, ensuring role-restricted access
 - Designed scalable media pipeline using Multer and ImageKit, reducing server load by ~40%
 - Optimized frontend performance using lazy loading, reducing bandwidth usage by ~35% and improving page speed
+- Implemented like & save functionality with toggle-based logic (idempotent operations), ensuring consistent user interactions
 
 ### 🔹 Backend Ledger– Banking System API
 - Architected and developed a RESTful backend API for managing users, accounts, and financial transactions
