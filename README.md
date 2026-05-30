@@ -22,7 +22,7 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-`C++` `Python` `JavaScript` `SQL`
+`C++` `Python` `JavaScript` `Go` `SQL`
 
 ### ⚙️ Backend
 `Node.js` `Express.js` `REST APIs` `JWT` `MongoDB`
@@ -30,8 +30,8 @@
 ### 🎨 Frontend
 `React.js` `HTML` `CSS`
 
-### 🤖 Machine Learning
-`Scikit-learn` `TensorFlow` `NLP` `TF-IDF` `Bag-of-Words`
+### 🤖 AI ML
+`RAG` `ChromaDB` `Langchain` `LLM` `Scikit-learn` `TensorFlow` `NLP` `TF-IDF` `Bag-of-Words`
 
 ---
 
@@ -42,6 +42,13 @@
 - Developed secure REST APIs for music, albums, and user workflows with role-restricted access  
 - Optimized media handling using **ImageKit + Multer**, reducing backend storage load and improving scalability  
 - Followed **MVC architecture** ensuring clean separation of controllers, services, and middleware
+
+### 🔹 Multimodal RAG Document Intelligence System
+- Developed an end-to-end Multimodal RAG pipeline to ingest and query PDF text, tables, and images efficiently
+- Implemented high-resolution PDF parsing using unstructured library with structured table and image extraction
+- Generated AI-enhanced semantic summaries for mixed-content chunks using Groq API and Llama 4 Scout
+- Embedded document chunks using HuggingFace sentence-transformers stored in ChromaDB with cosine similarity
+- Deployed an interactive Streamlit app with conversational QA, source attribution, and multi-turn chat hist
 
 ### 🔹 Movie Recommendation System
 - Built content-based recommendation system using **Bag-of-Words and Cosine Similarity** on movie metadata  
