@@ -95,9 +95,9 @@
 - Structured and queried plant data using SQL, identifying inefficiencies and improving reporting workflows  
 
 ### 💻 MakeMyBrain (SDE Intern)
-- Developed automated floor plan generation using Graph Convolutional Networks and user-defined boundaries
-- Employed Google Cloud Services to train and test graph2plan model on RPLAN dataset with 80k floorplans
-- Built an interactive floorplan generator ensuring compatibility and seamless user experience across platforms 
+-Spearheaded end-to-end development of a responsive frontend using HTML, Bootstrap, CSS, and JavaScript
+-Created a passwordless auth service with Node.js and MongoDB for secure OTP transmission and verification 
+-Reduced GPT-3.5 chatbot response time by 12 seconds using Python multithreading, improving user experience
 
 ### 🤖 SQFT 51 (AI Research Intern)
 - Developed automated floor plan generation using **Graph Convolutional Networks (GCN)** with user-defined constraints  
